@@ -1,0 +1,1 @@
+createobject("wscript.shell").run "D:\aria2\run_aria2.bat",0
